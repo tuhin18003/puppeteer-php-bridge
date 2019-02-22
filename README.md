@@ -49,7 +49,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 ## Credits
 
-- [Tuhin](https://codesolz.net)
+- [M.Tuhin](https://codesolz.net)
 
 Thanks to the [puppeteer](https://github.com/GoogleChrome/puppeteer "Headless browser") ([LICENSE](https://github.com/ariya/phantomjs/blob/master/LICENSE.BSD)) guys for creating their awesome WebKit scripting interface.
 
