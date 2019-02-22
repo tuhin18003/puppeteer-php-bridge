@@ -2,5 +2,6 @@ vendor/
 composer.lock
 jobs/*.js
 jobs/node_modules
+jobs/package-lock.json
 test.php
 node_modules
