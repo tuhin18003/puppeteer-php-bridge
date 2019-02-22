@@ -1,0 +1,26 @@
+{
+  "name": "tuhin18003/puppteer-php-bridge",
+  "description": "A PHP Class to interact with Puppeteer and capture screenshot of a webpage",
+  "keywords": [
+    "puppeteer",
+    "screen",
+    "capture",
+    "print-screen"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "M.Tuhin",
+      "email": "tuhin@codesolz.net",
+      "homepage": "https://codesolz.net"
+    }
+  ],
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "PuppetBridge\\": "src/"
+    }
+  }
+}

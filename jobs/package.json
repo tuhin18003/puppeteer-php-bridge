@@ -1,0 +1,14 @@
+{
+    "name": "headlessjs-puppetteer",
+    "version": "1.0.0",
+    "description": "headless js",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Tuhin",
+    "license": "ISC",
+    "dependencies": {
+        "puppeteer": "^1.0"
+    }
+}

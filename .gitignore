@@ -1,0 +1,6 @@
+vendor/
+composer.lock
+jobs/*.js
+jobs/node_modules
+test.php
+node_modules
