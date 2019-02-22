@@ -1,4 +1,4 @@
-#puppteer-php-bridge
+## puppeteer PHP bridge
 
 Web site screenshot tool based on PHP and [puppeteer](https://github.com/GoogleChrome/puppeteer "")
 You can use it to take screenshots for testing or monitoring service
