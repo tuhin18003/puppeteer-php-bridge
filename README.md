@@ -55,6 +55,6 @@ Thanks to the [puppeteer](https://github.com/GoogleChrome/puppeteer "Headless br
 
 
 ## Special Thanks
-- Script was modified from [microweber/screen](https://github.com/microweber/screen "microweber/screen")
+- [microweber/screen](https://github.com/microweber/screen "microweber/screen")
 
 
